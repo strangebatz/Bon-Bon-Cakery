@@ -1,0 +1,9 @@
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\bin\Debug\BonBonCakery.exe.config
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\bin\Debug\BonBonCakery.exe
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\bin\Debug\BonBonCakery.pdb
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\obj\Debug\BonBonCakery.csprojAssemblyReference.cache
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\obj\Debug\BonBonCakery.Properties.Resources.resources
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\obj\Debug\BonBonCakery.csproj.GenerateResource.cache
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\obj\Debug\BonBonCakery.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\obj\Debug\BonBonCakery.exe
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak\BonBonCakery\BonBonCakery\obj\Debug\BonBonCakery.pdb
