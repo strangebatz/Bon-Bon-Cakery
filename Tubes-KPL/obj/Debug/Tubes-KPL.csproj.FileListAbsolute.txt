@@ -1,0 +1,9 @@
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\obj\Debug\Tubes-KPL.csprojAssemblyReference.cache
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\obj\Debug\Tubes_KPL.Login.resources
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\obj\Debug\Tubes-KPL.csproj.GenerateResource.cache
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\obj\Debug\Tubes-KPL.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\bin\Debug\Tubes-KPL.exe.config
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\bin\Debug\Tubes-KPL.exe
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\bin\Debug\Tubes-KPL.pdb
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\obj\Debug\Tubes-KPL.exe
+C:\Users\ACER NITRO 5\Documents\SEMESTER 4\Konstruksi Perangkat Lunak\Tubes\Tubes KPL\Tubes-KPL\obj\Debug\Tubes-KPL.pdb
