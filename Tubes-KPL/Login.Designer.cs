@@ -46,7 +46,7 @@ namespace Tubes_KPL
             this.lbJudul.Size = new System.Drawing.Size(281, 32);
             this.lbJudul.TabIndex = 0;
             this.lbJudul.Text = "BON BON CAKERY";
-            this.lbJudul.Click += new System.EventHandler(this.label1_Click);
+           // this.lbJudul.Click += new System.EventHandler(this.label1_Click);
             // 
             // lbUsername
             // 
@@ -74,7 +74,7 @@ namespace Tubes_KPL
             this.lbPassword.Size = new System.Drawing.Size(91, 20);
             this.lbPassword.TabIndex = 3;
             this.lbPassword.Text = "Password";
-            this.lbPassword.Click += new System.EventHandler(this.label3_Click);
+            //this.lbPassword.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtPassword
             // 
@@ -82,6 +82,7 @@ namespace Tubes_KPL
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(229, 22);
             this.txtPassword.TabIndex = 4;
+           // this.txtPassword.TextChanged += new System.EventHandler(this.txtPassword_TextChanged);
             // 
             // btLogin
             // 
@@ -106,7 +107,7 @@ namespace Tubes_KPL
             this.Controls.Add(this.lbJudul);
             this.Name = "Login";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Login_Load);
+            //this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

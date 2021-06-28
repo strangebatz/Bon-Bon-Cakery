@@ -1,0 +1,32 @@
+[
+  {
+    "Kode Kue": "KB0001",
+    "Nama Kue": "Bolen",
+    "Jumlah": "55",
+    "Harga": "65000"
+  },
+  {
+    "Kode Kue": "KB0002",
+    "Nama Kue": "Nastar",
+    "Jumlah": "12",
+    "Harga": "125000"
+  },
+  {
+    "Kode Kue": "KB0003",
+    "Nama Kue": "Donta",
+    "Jumlah": "15",
+    "Harga": "5000"
+  },
+  {
+    "Kode Kue": "KB0004",
+    "Nama Kue": "Kue Lapis",
+    "Jumlah": "12",
+    "Harga": "3500"
+  },
+  {
+    "Kode Kue": "KB0005",
+    "Nama Kue": "kastengel",
+    "Jumlah": "50",
+    "Harga": "50000"
+  }
+]

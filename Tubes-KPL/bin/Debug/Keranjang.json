@@ -1,0 +1,29 @@
+[
+  {
+    "Kode Transaksi": "KT0001",
+    "Nama Pembeli": "Tetuko Hanurogo",
+    "Nama Kue": "Donta",
+    "Jumlah": "5",
+    "Harga": "5000",
+    "Sub Total": "25000",
+    "Status": "BELUM LUNAS"
+  },
+  {
+    "Kode Transaksi": "KT0002",
+    "Nama Pembeli": "Mujahid Biagi",
+    "Nama Kue": "Bolen",
+    "Jumlah": "13",
+    "Harga": "65000",
+    "Sub Total": "845000",
+    "Status": "BELUM LUNAS"
+  },
+  {
+    "Kode Transaksi": "KT0001",
+    "Nama Pembeli": "Tetuko Hanurogo",
+    "Nama Kue": "Bolen",
+    "Jumlah": "5",
+    "Harga": "65000",
+    "Sub Total": "325000",
+    "Status": "BELUM LUNAS"
+  }
+]

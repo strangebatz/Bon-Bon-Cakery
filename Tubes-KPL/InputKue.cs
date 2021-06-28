@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 
-namespace InputKue
+namespace Tubes_KPL
 {
     public partial class InputKue : Form
     {
@@ -37,7 +37,7 @@ namespace InputKue
             }
             dataGridView1.DataSource = tabKue;            
         }
-        public static T ReadFromJson<T>(string path)
+        private static T ReadFromJson<T>(string path)
         {
             string json = File.ReadAllText(path);
             T obj = JsonConvert.DeserializeObject<T>(json);
@@ -50,7 +50,7 @@ namespace InputKue
             File.WriteAllText(path, json);
         }
 
-        public void reset()
+        private void reset()
         {
             textBoxKode.Text = "";
             textBoxNama.Text = "";
@@ -81,13 +81,24 @@ namespace InputKue
             }
             dataGridView1.DataSource = tabKue;
             SaveToJson<DataTable>(tabKue, pathDirectory + pathKue);
+            MessageBox.Show("Kue Berhasil Disimpan", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
             reset();
         }
 
         private void buttonBack_Click(object sender, EventArgs e)
         {
             this.Hide();
-            //new dashboard().Show();
+            new Dashboard().Show();
+        }
+
+        private void textBoxKode_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxNama_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

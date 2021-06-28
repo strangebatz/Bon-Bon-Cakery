@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InputKue
+namespace Tubes_KPL
 {
     public class Kue
     {
